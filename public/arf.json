@@ -1290,11 +1290,6 @@
         "url": "http://www.cidr-report.org/as2.0/"
       },
       {
-        "name": "Reverse.report",
-        "type": "url",
-        "url": "https://reverse.report/"
-      },
-      {
         "name": "Team Cymru IP to ASN",
         "type": "url",
         "url": "https://asn.cymru.com/"
@@ -6923,11 +6918,6 @@
       "name": "SANS SEC487 OSINT Class",
       "type": "url",
       "url": "https://www.sans.org/sec487"
-    },
-    {
-      "name": "NetBootCamp",
-      "type": "url",
-      "url": "https://netbootcamp.org/trainingprogram/"
     },
     {
       "name": "Smart Questions",
